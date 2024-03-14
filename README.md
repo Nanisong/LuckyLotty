@@ -5,7 +5,7 @@ A bespoke Lotto number generator app, crafted with precision for the most signif
 ## About the App
 Dad’s Lucky Lotto Generator is an Android application that leverages a secret logic, derived from extensive research and analysis, to produce lottery numbers. This logic is not just a set of random algorithms; it’s a carefully curated formula that considers the nuances of chance and probability, tailored specifically for my dad’s preferences and expectations.
 
-## Customization at Its Core
+## Customisation at Its Core
 Every aspect of this app has been customized to suit one person’s needs - from the user interface to the number generation logic. It’s not just an app; it’s a personal assistant that understands the importance of luck and the thrill of the game.
 
 ## Features 🚀
