@@ -1,6 +1,6 @@
 # LuckyLotty
 
-A bespoke Lotto number generator app, crafted with precision for the most significant client -💖 my dad. Encapsulating a unique logic for that personal touch of luck.
+A bespoke Lotto number generator app, crafted with precision for the most significant client -💖 **my dad**. Encapsulating a unique logic for that personal touch of luck.
 
 ## About the App
 Dad’s Lucky Lotto Generator is an Android application that leverages a secret logic, derived from extensive research and analysis, to produce lottery numbers. This logic is not just a set of random algorithms; it’s a carefully curated formula that considers the nuances of chance and probability, tailored specifically for my dad’s preferences and expectations.
