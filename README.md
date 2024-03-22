@@ -15,6 +15,11 @@ Every aspect of this app has been customized to suit one person’s needs - from
 - **Privacy First** 🛡️: Standalone app with full privacy.
 
 ## Screenshots
+![ezgif-3-7254f78250](https://github.com/Nanisong/LuckyLotty/assets/124329841/ac5afc7a-eaf9-4a50-ad21-042082ea7917)
+
+
+
+
 <p float="center">
   <img src="https://github.com/Nanisong/LuckyLotty/assets/124329841/52b57b9b-3ec7-4635-a51a-6aecd9961e43.png" width="350" />
   <img src="https://github.com/Nanisong/LuckyLotty/assets/124329841/e3952a09-1f2b-42aa-a2b2-48a09e80656f.png" width="350" /> 
